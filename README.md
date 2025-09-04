@@ -16,7 +16,6 @@ It empowers frontend developers, students, and non-technical users to build comp
   - 🔑 Email + OTP Verification using Nodemailer
   - 🔒 JWT Authentication for secure API calls
   - 🛡️ Bcrypt Password Hashing to protect user credentials
-  - 🔐 AES Encryption for user-specific database protection
 - Database Management Dashboard
   - Create, view, edit, delete records via GUI.
   - Drop entire databases if needed.
@@ -28,7 +27,7 @@ It empowers frontend developers, students, and non-technical users to build comp
 - Frontend: React.js
 - Backend: Node.js, Express.js
 - Database: MongoDB (Mongoose)
-- Authentication & Security: JWT, Bcrypt, Nodemailer, AES (crypto module)
+- Authentication & Security: JWT, Bcrypt, Nodemailer
 
 ## 📸 Demonstrations
 
