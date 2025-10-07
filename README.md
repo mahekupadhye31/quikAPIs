@@ -1,3 +1,8 @@
+[![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-20.5.1-green?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/username/repo-name?style=social)](https://github.com/username/repo-name/stargazers)
+
 # QuikAPIs
 
 QuikAPIs is a zero-code backend automation platform that allows users to instantly generate fully functional CRUD APIs and manage databases without writing a single line of backend code.
